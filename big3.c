@@ -22,7 +22,7 @@ void big3()
  else 
   {
    printf("\nEither any two values or all the three values are equal\n\n");
-  printf("\n Given number is equall\n\n");
+  //#printf("\n Given number is equall\n\n");
   } 
 // return 0;
 }
